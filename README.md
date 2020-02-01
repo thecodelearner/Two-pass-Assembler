@@ -33,7 +33,7 @@ NOTE :: Pre-run inputs and outputs can be found ‘Assembly CODE 1’(‘Assembl
 ### STEP2 ::  In pass 1, a symbol table of all labels  is generated which can be read in ‘symbol_table.txt’
 
 
-### STEP3 ::  In pass 2, the program in again read and symbol table is used to get the corresponding addresses associated with each label. Each instruction is converted to 32 bit machine code
+### STEP3 ::  In pass 2, the program is again read and symbol table is used to get the corresponding addresses associated with each label. Each instruction is converted to 32 bit machine code
 Addressed associated with registers
 
 		R0----->  00000	
