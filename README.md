@@ -1,6 +1,6 @@
-========================================================================================
+===============================================================================
 # PROGRAM MANUAL
-========================================================================================
+===============================================================================
 # THE PROGRAMS
 - PROGRAM 1 ::	Find frequency of a given number in an integer array
 - PROGRAM 2 ::	Binary Search for an integer
@@ -76,9 +76,9 @@ We are storing the opcodes in a Binary Trie .
 The opcodes corresponding to the machine instruction is extracted and executed.
  ![b](http://i.imgur.com/6YbeDr0.png)
 
-========================================================================================
+===============================================================================
 # THEORY
-========================================================================================
+===============================================================================
 
 # Two-pass-Assembler
 This is my design of a 32-bit ISA and implementation a two pass assembler using C code to demonstrate how assembly language computation occurs with the help of different sets of instructions and different addressing modes defined in ISA. It converted Assembly Language code into Machine Language code and then using the machine language code generated executed the program. The GNUPro process of converting source file to executable file is shown below.
